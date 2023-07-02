@@ -25,7 +25,7 @@
 - CSS 
     - Inline 
     ```html
-    <ul>
+        <ul>
             <li><a href="index.html" style="font-weight: bold">Login</a></li>
             <li><a href="intro.html" style="font-weight: bold">Introduction</a></li>
             <li><a href="contact.html" style="font-weight: bold">Contact</a></li>

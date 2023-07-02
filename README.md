@@ -62,7 +62,7 @@
     - User can input text content 
 
 ## Github Link 
-    - ![]https://github.com/yxw1001827416/Introduction 
+    - [](https://github.com/yxw1001827416/Introduction)
 
 ## Github Page Link
-    - ![]https://yxw1001827416.github.io/Introduction/ 
+    - ![](https://yxw1001827416.github.io/Introduction/) 

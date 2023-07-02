@@ -57,7 +57,7 @@
 - User can read introduction on introduction page 
 - User can send me email on contact page 
     - User can input name 
-    - User can inout email 
+    - User can input email 
     - User can select country 
     - User can input text content 
 

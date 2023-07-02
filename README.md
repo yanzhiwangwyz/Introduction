@@ -1,20 +1,20 @@
-## Technical specifications:
+## Technical specifications: 
  - HTML 
     - The project includes 3 pages 
     - The HTML tag used include 
-        - <html>
-        - <head> 
-        - <body> 
-        - <img> 
-        - <form> 
-        - <ul> 
-        - <li> 
-        - <header> 
-        - <article> 
-        - <h2> 
-        - <p> 
-        - <button> 
-        - <input> 
+        - `<html>`
+        - `<head>`
+        - `<body>` 
+        - `<img>` 
+        - `<form>` 
+        - `<ul>` 
+        - `<li>` 
+        - `<header>` 
+        - `<article>` 
+        - `<h2>` 
+        - `<p>` 
+        - `<button>` 
+        - `<input>` 
     - form 
         - Used in login page 
         - Used in contact page 
